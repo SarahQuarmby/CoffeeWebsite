@@ -1,1 +1,6 @@
-
+.jumbotron 
+{
+min-height: 600px;
+background-image: url("blur-1867429_640.jpg"); 
+background-size: cover; 
+}
